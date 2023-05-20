@@ -5,3 +5,5 @@
 ## Gravando mudanças no Git
 
 ##Salvando Alterações no git
+
+* uso do comando restore 
