@@ -6,4 +6,4 @@
 
 ##Salvando Alterações no git
 
-* uso do comando restore 
+* comando git push
